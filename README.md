@@ -1,11 +1,8 @@
 ### Hi there, I'm [Chatchai!](https://chatchaimee.github.io) 👋
 
-[<img align="left" height="20" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">](https://www.facebook.com/jayyzdayo)
-[<img align="left" height="20" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/jayyzdayo)
-[<img align="left" height="20" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/chatchai-meesuksabai)
-
-<br />
-<br />
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/jayyzdayo)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jayyzdayo)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chatchai-meesuksabai)
 
 I'm a developer
 
@@ -13,7 +10,7 @@ I'm a developer
 
 🌱 I’m currently learning everything 🤣
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chatchaimee&theme=ayu-mirage&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chatchaimee&theme=ayu-mirage&hide_border=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chatchaimee&repo=2.0.0&theme=ayu-mirage&hide_border=true)](https://github.com/chatchaimee/2.0.0)
 
